@@ -19,11 +19,6 @@ Hi, I'm Tarun Puniya 👋<br>Computer Science Engineer | AI/ML | Data Science | 
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun-puniya-1735a9326) 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
