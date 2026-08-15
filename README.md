@@ -2,8 +2,13 @@
 Hi, I'm Tarun Puniya 👋<br>Computer Science Engineer | AI/ML | Data Science | Backend | DSA<br>I'm a Computer Science Engineering student focused on building real-world applications using AI/ML, backend systems and data.<br><br>Currently working on:<br><br>Data Structures & Algorithms in C++<br>Machine Learning & Data Science<br>Backend Development<br>AI-powered applications
 
 
+
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/तरुण 🦬) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun-puniya-1735a9326) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@tarun_puni27606) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarunpuniya287@gmail.com) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chaudhary.xeditz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun-puniya-1735a932)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tarun_puni27606)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunpuniya287@gmail.com)
 
 
 # 💻 Tech Stack:
