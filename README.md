@@ -18,8 +18,7 @@ Hi, I'm Tarun Puniya 👋<br> AI/ML | Data Science | Backend | DSA<br>I'm a Comp
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 💻 Tech Stack:
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=tarunpuniya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=tarunpuniya&theme=dark&hide_border=false)<br/>
