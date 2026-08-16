@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tarun Puniya 👋<br>Computer Science Engineer | AI/ML | Data Science | Backend | DSA<br>I'm a Computer Science Engineering student focused on building real-world applications using AI/ML, backend systems and data.<br><br>Currently working on:<br><br>Data Structures & Algorithms in C++<br>Machine Learning & Data Science<br>Backend Development<br>AI-powered applications
+Hi, I'm Tarun Puniya 👋<br> AI/ML | Data Science | Backend | DSA<br>I'm a Computer Science Engineering student focused on building real-world applications using AI/ML, backend systems and data.<br><br>Currently working on:<br><br>Data Structures & Algorithms in C++<br>Machine Learning & Data Science<br>Backend Development<br>AI-powered applications
 
 
 
@@ -17,6 +17,16 @@ Hi, I'm Tarun Puniya 👋<br>Computer Science Engineer | AI/ML | Data Science | 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# 💻 Tech Stack:
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tarunpuniya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=tarunpuniya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tarunpuniya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 
 
 
